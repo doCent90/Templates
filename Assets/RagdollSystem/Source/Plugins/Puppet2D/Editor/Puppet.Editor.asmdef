@@ -1,0 +1,18 @@
+{
+    "name": "Puppet.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e999af4b0e4e6014f866d0b9e0a9b1b8"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

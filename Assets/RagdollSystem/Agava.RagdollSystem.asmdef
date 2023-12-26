@@ -1,0 +1,20 @@
+{
+    "name": "Agava.RagdollSystem",
+    "rootNamespace": "RagdollSystem",
+    "references": [
+        "GUID:637dfb2b87b2cf0499a8da5b0b91da54",
+        "GUID:4c25c05f410a3a447a75c3b0909152ef",
+        "GUID:e999af4b0e4e6014f866d0b9e0a9b1b8",
+        "GUID:8d20249948139184388799c3bb08cd3c",
+        "GUID:b41517a28e7c4fe4da46e38e47dd7aca"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

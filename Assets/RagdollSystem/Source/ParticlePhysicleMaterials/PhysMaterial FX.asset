@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe146527fc330b948b966093c854a601, type: 3}
+  m_Name: PhysMaterial FX
+  m_EditorClassIdentifier: 
+  <Fire>k__BackingField: {fileID: 5877659116527791772, guid: a7f42a0665d645a4a946beb48b99f7fb, type: 3}
+  <Cold>k__BackingField: {fileID: 5877659116527791772, guid: ccdfa02827794844faf676ac0be0c0f3, type: 3}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e346ad89583487284b9c66b8a31a85c, type: 3}
+  m_Name: PlayableSteve
+  m_EditorClassIdentifier: 
+  Id: 52768215-0be7-45bc-82f2-10b3db437e08
+  Prefab: {fileID: 6118415438414678777, guid: 846661041a54c5248b844fb5a3992f29, type: 3}
+  Image: {fileID: 258504369, guid: c9f99808e158fd040b7bccaee2cc7eb6, type: 3}
+  Name: Steve
+  Type: 0
+  CrashAudio: {fileID: 8300000, guid: 3232bd63fff3f82408e649d00a6165b5, type: 3}
+  LinkLockType: 0
+  Health: 0
+  Speed: 7
+  StayStateEnterDelay: 1.75
+  SeatDownDuration: 0.75
