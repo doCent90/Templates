@@ -2405,7 +2405,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 0}
+  originalSprite: {fileID: 21300000, guid: c85863f49bf8bda4186c4c4fadee46c3, type: 3}
   clonedSprite: {fileID: 0}
 --- !u!114 &2163359744679787860
 MonoBehaviour:
@@ -2968,7 +2968,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1049339181509960265}
-  m_LocalRotation: {x: 0.0000000048570437, y: 0.00000004186605, z: -0.9217024, w: 0.38789794}
+  m_LocalRotation: {x: 0.000000004857033, y: 0.00000004186605, z: -0.92170244, w: 0.3878977}
   m_LocalPosition: {x: -0.006, y: -0.092, z: 0}
   m_LocalScale: {x: 1.1133424, y: 1.1133424, z: 1.1133423}
   m_ConstrainProportionsScale: 0
@@ -3574,7 +3574,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1049339182016646735}
-  m_LocalRotation: {x: -0.000000038473218, y: 0.00000001720954, z: 0.09309593, w: -0.99565715}
+  m_LocalRotation: {x: -0.000000077320074, y: 0.0000000335582, z: 0.09309558, w: -0.9956572}
   m_LocalPosition: {x: 0.293, y: 1.05, z: 0.00000008687081}
   m_LocalScale: {x: 1.0109831, y: 1.0109831, z: 1.0109833}
   m_ConstrainProportionsScale: 0
@@ -4563,7 +4563,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1049339182919810246}
-  m_LocalRotation: {x: -1.7763568e-15, y: 2.6645353e-15, z: -0.9336929, w: -0.35807508}
+  m_LocalRotation: {x: 0.0000000025729996, y: -0.000000042068244, z: -0.9336928, w: -0.35807517}
   m_LocalPosition: {x: -0.009, y: 1.052, z: 0}
   m_LocalScale: {x: 2.0395417, y: 2.0395417, z: 2.0395386}
   m_ConstrainProportionsScale: 0
@@ -5014,6 +5014,7 @@ Transform:
   - {fileID: 8091291949927781989}
   - {fileID: 1422862727342459719}
   - {fileID: 6959086901832150978}
+  - {fileID: 4938065669089454454}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -5406,10 +5407,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c814c121aee500442a4614918914e82c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _playerControllPrefab: {fileID: 666802156289506486, guid: 7ef98c04870467e48badd36d37fac4ec, type: 3}
   _characterParent: {fileID: 1049339183203745614}
-  _characterInteractionTrigger: {fileID: 1592958188365530727}
+  _playerControllPrefab: {fileID: 666802156289506486, guid: 7ef98c04870467e48badd36d37fac4ec, type: 3}
   _playableCharacterMark: {fileID: 953128723713139459}
+  _characterInteractionTrigger: {fileID: 1592958188365530727}
   _inputConfig: {fileID: 11400000, guid: a24832d0fc16cac46b0ffca6100ace27, type: 2}
   _mainBody: {fileID: 5429471960970085804}
   _puppetRotator: {fileID: 9079763959927105620}
@@ -10769,7 +10770,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 0}
+  originalSprite: {fileID: 21300000, guid: 0313052371444d64cbbdc30a3f618ff1, type: 3}
   clonedSprite: {fileID: 0}
 --- !u!114 &62083703921013232
 MonoBehaviour:
@@ -15389,7 +15390,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 0}
+  originalSprite: {fileID: -346522596, guid: 9576cca3d40dd8d499f1a03ae1cfd2f9, type: 3}
   clonedSprite: {fileID: 0}
 --- !u!114 &9031890702311617350
 MonoBehaviour:
@@ -18939,7 +18940,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 0}
+  originalSprite: {fileID: 21300000, guid: 49b141ee79a12954bb402cbe2417c17a, type: 3}
   clonedSprite: {fileID: 0}
 --- !u!114 &8639058714850815425
 MonoBehaviour:
@@ -21350,7 +21351,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 0}
+  originalSprite: {fileID: 21300000, guid: c85863f49bf8bda4186c4c4fadee46c3, type: 3}
   clonedSprite: {fileID: 0}
 --- !u!114 &6494743634944324203
 MonoBehaviour:
@@ -27623,7 +27624,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 0}
+  originalSprite: {fileID: -1812992953, guid: 9576cca3d40dd8d499f1a03ae1cfd2f9, type: 3}
   clonedSprite: {fileID: 0}
 --- !u!114 &4247587017670390937
 MonoBehaviour:
@@ -32184,7 +32185,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 0}
+  originalSprite: {fileID: -211841215, guid: 9576cca3d40dd8d499f1a03ae1cfd2f9, type: 3}
   clonedSprite: {fileID: 0}
 --- !u!114 &6919548154519146455
 MonoBehaviour:
@@ -37095,7 +37096,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 0}
+  originalSprite: {fileID: -335429918, guid: 9576cca3d40dd8d499f1a03ae1cfd2f9, type: 3}
   clonedSprite: {fileID: 0}
 --- !u!114 &8297458109221036730
 MonoBehaviour:
@@ -41463,7 +41464,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 0}
+  originalSprite: {fileID: -1011551496, guid: 9576cca3d40dd8d499f1a03ae1cfd2f9, type: 3}
   clonedSprite: {fileID: 0}
 --- !u!114 &3649647688503068653
 MonoBehaviour:
@@ -45804,7 +45805,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 0}
+  originalSprite: {fileID: 1563016630, guid: 9576cca3d40dd8d499f1a03ae1cfd2f9, type: 3}
   clonedSprite: {fileID: 0}
 --- !u!114 &1132986853784559827
 MonoBehaviour:
@@ -50578,7 +50579,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 0}
+  originalSprite: {fileID: 664473269, guid: 9576cca3d40dd8d499f1a03ae1cfd2f9, type: 3}
   clonedSprite: {fileID: 0}
 --- !u!114 &93368733555629547
 MonoBehaviour:
@@ -63219,7 +63220,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 0}
+  originalSprite: {fileID: 2095211317, guid: 9576cca3d40dd8d499f1a03ae1cfd2f9, type: 3}
   clonedSprite: {fileID: 0}
 --- !u!114 &2281198151155111999
 MonoBehaviour:
@@ -68916,7 +68917,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 0}
+  originalSprite: {fileID: -335429918, guid: 9576cca3d40dd8d499f1a03ae1cfd2f9, type: 3}
   clonedSprite: {fileID: 0}
 --- !u!114 &1407802419119128703
 MonoBehaviour:
@@ -73077,7 +73078,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 0}
+  originalSprite: {fileID: -1011551496, guid: 9576cca3d40dd8d499f1a03ae1cfd2f9, type: 3}
   clonedSprite: {fileID: 0}
 --- !u!114 &6316948867826616561
 MonoBehaviour:
@@ -77238,7 +77239,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 0}
+  originalSprite: {fileID: 664473269, guid: 9576cca3d40dd8d499f1a03ae1cfd2f9, type: 3}
   clonedSprite: {fileID: 0}
 --- !u!114 &8670202471063550879
 MonoBehaviour:
@@ -90778,7 +90779,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 0}
+  originalSprite: {fileID: 2095211317, guid: 9576cca3d40dd8d499f1a03ae1cfd2f9, type: 3}
   clonedSprite: {fileID: 0}
 --- !u!114 &7950969124152918641
 MonoBehaviour:
@@ -93415,7 +93416,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 0}
+  originalSprite: {fileID: 21300000, guid: 5e9005eb1a61a414bb9bf1c854d3ae8b, type: 3}
   clonedSprite: {fileID: 0}
 --- !u!114 &7368535203269754430
 MonoBehaviour:
@@ -98328,7 +98329,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 0}
+  originalSprite: {fileID: 21300000, guid: 1b1c3f2ae83eb514d8829bcaf99df7da, type: 3}
   clonedSprite: {fileID: 0}
 --- !u!114 &2634936905808860427
 MonoBehaviour:
@@ -101447,7 +101448,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 0}
+  originalSprite: {fileID: 21300000, guid: f2ea7151ec675474a95a70da2cef8ca1, type: 3}
   clonedSprite: {fileID: 0}
 --- !u!114 &1545091865784666870
 MonoBehaviour:
@@ -104650,7 +104651,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 0}
+  originalSprite: {fileID: 21300000, guid: f2ea7151ec675474a95a70da2cef8ca1, type: 3}
   clonedSprite: {fileID: 0}
 --- !u!114 &688594932356512460
 MonoBehaviour:
@@ -108083,7 +108084,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 0}
+  originalSprite: {fileID: 21300000, guid: 58cc9f7702e66e445bba3c5aecaced42, type: 3}
   clonedSprite: {fileID: 0}
 --- !u!114 &8387605316632711895
 MonoBehaviour:
@@ -108167,8 +108168,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _baseCharacter: {fileID: 1049339183203745604}
-  <Rigidbody>k__BackingField: {fileID: 3970617509668267822}
-  <Collider>k__BackingField: {fileID: 1971153262476909704}
 --- !u!61 &1971153262476909704
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -110764,7 +110763,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 0}
+  originalSprite: {fileID: 21300000, guid: 5e9005eb1a61a414bb9bf1c854d3ae8b, type: 3}
   clonedSprite: {fileID: 0}
 --- !u!114 &7883240736145531403
 MonoBehaviour:
@@ -113883,7 +113882,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 0}
+  originalSprite: {fileID: 21300000, guid: 58cc9f7702e66e445bba3c5aecaced42, type: 3}
   clonedSprite: {fileID: 0}
 --- !u!114 &6240611029358075720
 MonoBehaviour:
@@ -113920,6 +113919,37 @@ MonoBehaviour:
   splitAfterFracture: 0
   splitFeather: 3
   splitHealThreshold: -1
+--- !u!1 &8994621759603830999
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4938065669089454454}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4938065669089454454
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8994621759603830999}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.73898506, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1049339183203745612}
+  m_RootOrder: -1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &9037147556365616285
 GameObject:
   m_ObjectHideFlags: 0
@@ -117194,7 +117224,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 0}
+  originalSprite: {fileID: 21300000, guid: e27b3ec760d388e499288d993f901d72, type: 3}
   clonedSprite: {fileID: 0}
 --- !u!114 &8877132992039174548
 MonoBehaviour:
