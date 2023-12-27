@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
-using Destrutible;
+using PhysicleMaterialsDamager;
 using Destructible2D;
 using Core;
 
@@ -38,7 +38,7 @@ namespace RagdollSystem
             _setupOwnCollidersIgnor = new();
             SetIgnoreColliders();
 
-            _physicleMaterialsHandlers.ForEach(material => material.Construct(gameComponets));
+            _physicleMaterialsHandlers.ForEach(material => material.Construct());
             _rigidbodies.ForEach(body => body.gravityScale = _gravityScaleDefault);
 
             AllParts = _parts;

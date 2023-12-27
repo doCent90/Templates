@@ -2,7 +2,7 @@ using System;
 using System.Linq;
 using System.Collections.Generic;
 using UnityEngine;
-using Destrutible;
+using Destructible2D;
 
 namespace RagdollSystem
 {

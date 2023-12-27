@@ -1,7 +1,6 @@
 using System;
 using UnityEngine;
 using Destructible2D;
-using Destrutible;
 
 namespace RagdollSystem
 {

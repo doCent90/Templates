@@ -1,13 +1,9 @@
 {
-    "name": "Agava.RagdollSystem",
-    "rootNamespace": "RagdollSystem",
+    "name": "Destructable2D",
+    "rootNamespace": "",
     "references": [
-        "GUID:4c25c05f410a3a447a75c3b0909152ef",
-        "GUID:e999af4b0e4e6014f866d0b9e0a9b1b8",
         "GUID:8d20249948139184388799c3bb08cd3c",
-        "GUID:b41517a28e7c4fe4da46e38e47dd7aca",
-        "GUID:e0400fbd75e7cf44d80e1bf09fcdd364",
-        "GUID:dac04944a1c15f246a81c8c2bb0c93ad"
+        "GUID:637dfb2b87b2cf0499a8da5b0b91da54"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
