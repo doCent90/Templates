@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RagdollSystem
+namespace Destructible2D
 {
     public interface IDestructionQueueHandler
     {

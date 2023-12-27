@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63d85356f5e84d4fb0b07c6e29099205, type: 3}
+  m_Name: WaterGun
+  m_EditorClassIdentifier: 
+  Id: d879b11a-3bed-4352-9510-efef406522cc
+  Prefab: {fileID: 3697307481424623436, guid: eb886bcac2bc0e8449e56c9dfb5cbbad, type: 3}
+  Image: {fileID: 21300000, guid: b1efa517d778daa479981ed06319de29, type: 3}
+  Name: Water Gun
+  Type: 1
+  CrashAudio: {fileID: 0}
+  LinkLockType: 0
+  ParticleObject: {fileID: 0}
+  Damage: 0
+  AuxiliaryClip: {fileID: 8300000, guid: 5f1e4e990d830ef4cbfef1377386a2a4, type: 3}
+  WeaponType: 0
+  RotationAbs: 0
+  LocalHandPosition: {x: 0.04, y: 0.375}
+  LocalHandRotation: -82
+  FrontHandPosition: {x: 0.9, y: -1.44}
+  BackHandPosition: {x: 2.19, y: -0.88}
+  RotationBorder: {x: -45, y: 90}
+  AngelOffset: 0
+  CreateJoint: 0
+  SecondPosition: 0
+  SecondFrontHandPosition: {x: 0, y: 0}
+  SecondBackHandPosition: {x: 0, y: 0}
+  SecondPositionAngel: {x: 0, y: 0}

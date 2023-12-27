@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc82fccffcd20214d8d88f0d8dcc9d21, type: 3}
+  m_Name: DamageToObstacle
+  m_EditorClassIdentifier: 
+  IsDestructable: 1
+  DestructColor: {r: 0.1981132, g: 0.1981132, b: 0.1981132, a: 1}
+  Mask:
+    serializedVersion: 2
+    m_Bits: 320
+  StampPaint: 0
+  Priority: 2
+  StampSize: {x: 0.5, y: 0.5}
+  StampRandomDirection: 0
+  StampShape: {fileID: 2800000, guid: e91ed3d132196f341bf01a198a23c9de, type: 3}

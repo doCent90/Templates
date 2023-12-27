@@ -8,6 +8,12 @@ namespace Core
     {
         [field: SerializeField] public Camera MainCamera { get; private set; }
 
+        public Vector3 GetDifference(Vector3 a, Vector3 b) =>
+            MainCamera.ScreenToWorldPoint(a) - b;
+
+        public float GetDistance(Vector2 a, Vector2 b) =>
+            Vector2.Distance(ScreenToWorldPoint(a), ScreenToWorldPoint(b));
+
         public Vector3 ScreenToWorldPoint(Vector3 vector)
             => MainCamera.ScreenToWorldPoint(vector);
 

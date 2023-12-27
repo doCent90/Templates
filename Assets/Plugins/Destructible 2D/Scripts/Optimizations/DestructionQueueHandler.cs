@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Core;
 
-namespace RagdollSystem
+namespace Destructible2D
 {
     public class DestructionQueueHandler : IDestructionQueueHandler
     {

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc82fccffcd20214d8d88f0d8dcc9d21, type: 3}
+  m_Name: DamageFromFire
+  m_EditorClassIdentifier: 
+  IsDestructable: 1
+  DestructColor: {r: 0.45400003, g: 0.31693527, b: 0.16616401, a: 1}
+  Mask:
+    serializedVersion: 2
+    m_Bits: 320
+  StampPaint: 3
+  Priority: 10
+  StampSize: {x: 0.5, y: 0.5}
+  StampRandomDirection: 1
+  StampShape: {fileID: 2800000, guid: 43cbf09de5efef34aac3d1b6a079d270, type: 3}
