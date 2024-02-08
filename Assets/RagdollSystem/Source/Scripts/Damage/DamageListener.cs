@@ -4,7 +4,7 @@ namespace RagdollSystem
 {
     public class DamageListener : MonoBehaviour
     {
-        private const float MinVelocityValue = 10f;
+        private const float MinVelocityValue = 20f;
         private const float MinDamageValue = 1f;
         private const float MaxDamageValue = 3f;
         private const float Delay = 0.5f;

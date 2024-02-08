@@ -8,7 +8,7 @@ namespace Destructible2D
 {
     public class DestructionQueueHandler : IDestructionQueueHandler
     {
-        private const float Time = 0.15f;
+        private const float Time = 0.2f;
 
         private readonly ICoroutine _coroutine;
         private readonly WaitForSecondsRealtime _wait;

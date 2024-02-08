@@ -43,6 +43,25 @@ CircleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -61,7 +80,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ac5f4eab833bac459de90910ff2ef14, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  <IsChild>k__BackingField: 0
   _collider: {fileID: 545225879123225614}
   _staticMaterial: 0
   _randomPos: 0.4

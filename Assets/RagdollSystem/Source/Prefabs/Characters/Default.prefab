@@ -2405,7 +2405,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 21300000, guid: c85863f49bf8bda4186c4c4fadee46c3, type: 3}
+  originalSprite: {fileID: 0}
   clonedSprite: {fileID: 0}
 --- !u!114 &2163359744679787860
 MonoBehaviour:
@@ -2436,8 +2436,8 @@ MonoBehaviour:
   damage: 0
   damageRequired: 100
   damageMultiplier: 2
-  pointsPerSolidPixel: 0.001
-  maxPoints: 20
+  pointsPerSolidPixel: 0.1
+  maxPoints: 3
   factorInSharpness: 1
   splitAfterFracture: 0
   splitFeather: 3
@@ -10770,7 +10770,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 21300000, guid: 0313052371444d64cbbdc30a3f618ff1, type: 3}
+  originalSprite: {fileID: 0}
   clonedSprite: {fileID: 0}
 --- !u!114 &62083703921013232
 MonoBehaviour:
@@ -10801,8 +10801,8 @@ MonoBehaviour:
   damage: 0
   damageRequired: 100
   damageMultiplier: 2
-  pointsPerSolidPixel: 0.001
-  maxPoints: 20
+  pointsPerSolidPixel: 0.1
+  maxPoints: 3
   factorInSharpness: 1
   splitAfterFracture: 0
   splitFeather: 3
@@ -15390,7 +15390,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: -346522596, guid: 9576cca3d40dd8d499f1a03ae1cfd2f9, type: 3}
+  originalSprite: {fileID: 0}
   clonedSprite: {fileID: 0}
 --- !u!114 &9031890702311617350
 MonoBehaviour:
@@ -15421,8 +15421,8 @@ MonoBehaviour:
   damage: 0
   damageRequired: 100
   damageMultiplier: 2
-  pointsPerSolidPixel: 0.001
-  maxPoints: 20
+  pointsPerSolidPixel: 0.1
+  maxPoints: 3
   factorInSharpness: 1
   splitAfterFracture: 0
   splitFeather: 3
@@ -18940,7 +18940,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 21300000, guid: 49b141ee79a12954bb402cbe2417c17a, type: 3}
+  originalSprite: {fileID: 0}
   clonedSprite: {fileID: 0}
 --- !u!114 &8639058714850815425
 MonoBehaviour:
@@ -18971,8 +18971,8 @@ MonoBehaviour:
   damage: 0
   damageRequired: 100
   damageMultiplier: 2
-  pointsPerSolidPixel: 0.001
-  maxPoints: 20
+  pointsPerSolidPixel: 0.1
+  maxPoints: 3
   factorInSharpness: 1
   splitAfterFracture: 0
   splitFeather: 3
@@ -21351,7 +21351,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 21300000, guid: c85863f49bf8bda4186c4c4fadee46c3, type: 3}
+  originalSprite: {fileID: 0}
   clonedSprite: {fileID: 0}
 --- !u!114 &6494743634944324203
 MonoBehaviour:
@@ -21382,8 +21382,8 @@ MonoBehaviour:
   damage: 0
   damageRequired: 100
   damageMultiplier: 2
-  pointsPerSolidPixel: 0.001
-  maxPoints: 20
+  pointsPerSolidPixel: 0.1
+  maxPoints: 3
   factorInSharpness: 1
   splitAfterFracture: 0
   splitFeather: 3
@@ -27624,7 +27624,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: -1812992953, guid: 9576cca3d40dd8d499f1a03ae1cfd2f9, type: 3}
+  originalSprite: {fileID: 0}
   clonedSprite: {fileID: 0}
 --- !u!114 &4247587017670390937
 MonoBehaviour:
@@ -27655,8 +27655,8 @@ MonoBehaviour:
   damage: 0
   damageRequired: 100
   damageMultiplier: 2
-  pointsPerSolidPixel: 0.001
-  maxPoints: 20
+  pointsPerSolidPixel: 0.1
+  maxPoints: 3
   factorInSharpness: 1
   splitAfterFracture: 0
   splitFeather: 3
@@ -32185,7 +32185,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: -211841215, guid: 9576cca3d40dd8d499f1a03ae1cfd2f9, type: 3}
+  originalSprite: {fileID: 0}
   clonedSprite: {fileID: 0}
 --- !u!114 &6919548154519146455
 MonoBehaviour:
@@ -32216,8 +32216,8 @@ MonoBehaviour:
   damage: 0
   damageRequired: 100
   damageMultiplier: 2
-  pointsPerSolidPixel: 0.001
-  maxPoints: 20
+  pointsPerSolidPixel: 0.1
+  maxPoints: 3
   factorInSharpness: 1
   splitAfterFracture: 0
   splitFeather: 3
@@ -37096,7 +37096,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: -335429918, guid: 9576cca3d40dd8d499f1a03ae1cfd2f9, type: 3}
+  originalSprite: {fileID: 0}
   clonedSprite: {fileID: 0}
 --- !u!114 &8297458109221036730
 MonoBehaviour:
@@ -37127,8 +37127,8 @@ MonoBehaviour:
   damage: 0
   damageRequired: 100
   damageMultiplier: 2
-  pointsPerSolidPixel: 0.001
-  maxPoints: 20
+  pointsPerSolidPixel: 0.1
+  maxPoints: 3
   factorInSharpness: 1
   splitAfterFracture: 0
   splitFeather: 3
@@ -37321,8 +37321,6 @@ MonoBehaviour:
   _healthsComponent: {fileID: 3724334651616462359}
   _fXConfig: {fileID: 11400000, guid: da186a45d42a41145b4b5b4017e511e7, type: 2}
   _stamp: {fileID: 6438525630201026132}
-  _animator: {fileID: 350511201817783672}
-  _character: {fileID: 1049339183203745604}
 --- !u!114 &8701125737129364011
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41464,7 +41462,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: -1011551496, guid: 9576cca3d40dd8d499f1a03ae1cfd2f9, type: 3}
+  originalSprite: {fileID: 0}
   clonedSprite: {fileID: 0}
 --- !u!114 &3649647688503068653
 MonoBehaviour:
@@ -41495,8 +41493,8 @@ MonoBehaviour:
   damage: 0
   damageRequired: 100
   damageMultiplier: 2
-  pointsPerSolidPixel: 0.001
-  maxPoints: 20
+  pointsPerSolidPixel: 0.1
+  maxPoints: 3
   factorInSharpness: 1
   splitAfterFracture: 0
   splitFeather: 3
@@ -45805,7 +45803,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 1563016630, guid: 9576cca3d40dd8d499f1a03ae1cfd2f9, type: 3}
+  originalSprite: {fileID: 0}
   clonedSprite: {fileID: 0}
 --- !u!114 &1132986853784559827
 MonoBehaviour:
@@ -45836,8 +45834,8 @@ MonoBehaviour:
   damage: 0
   damageRequired: 100
   damageMultiplier: 2
-  pointsPerSolidPixel: 0.001
-  maxPoints: 20
+  pointsPerSolidPixel: 0.1
+  maxPoints: 3
   factorInSharpness: 1
   splitAfterFracture: 0
   splitFeather: 3
@@ -46030,8 +46028,6 @@ MonoBehaviour:
   _healthsComponent: {fileID: 8130556541570145707}
   _fXConfig: {fileID: 11400000, guid: da186a45d42a41145b4b5b4017e511e7, type: 2}
   _stamp: {fileID: 6438525630201026132}
-  _animator: {fileID: 350511201817783672}
-  _character: {fileID: 1049339183203745604}
 --- !u!114 &435878227651262317
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -46238,8 +46234,6 @@ MonoBehaviour:
   _healthsComponent: {fileID: 7077288184853022808}
   _fXConfig: {fileID: 11400000, guid: da186a45d42a41145b4b5b4017e511e7, type: 2}
   _stamp: {fileID: 6438525630201026132}
-  _animator: {fileID: 350511201817783672}
-  _character: {fileID: 1049339183203745604}
 --- !u!114 &7251789601684713332
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50579,7 +50573,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 664473269, guid: 9576cca3d40dd8d499f1a03ae1cfd2f9, type: 3}
+  originalSprite: {fileID: 0}
   clonedSprite: {fileID: 0}
 --- !u!114 &93368733555629547
 MonoBehaviour:
@@ -50610,8 +50604,8 @@ MonoBehaviour:
   damage: 0
   damageRequired: 100
   damageMultiplier: 2
-  pointsPerSolidPixel: 0.001
-  maxPoints: 20
+  pointsPerSolidPixel: 0.1
+  maxPoints: 3
   factorInSharpness: 1
   splitAfterFracture: 0
   splitFeather: 3
@@ -63220,7 +63214,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 2095211317, guid: 9576cca3d40dd8d499f1a03ae1cfd2f9, type: 3}
+  originalSprite: {fileID: 0}
   clonedSprite: {fileID: 0}
 --- !u!114 &2281198151155111999
 MonoBehaviour:
@@ -63251,8 +63245,8 @@ MonoBehaviour:
   damage: 0
   damageRequired: 100
   damageMultiplier: 2
-  pointsPerSolidPixel: 0.001
-  maxPoints: 20
+  pointsPerSolidPixel: 0.1
+  maxPoints: 3
   factorInSharpness: 1
   splitAfterFracture: 0
   splitFeather: 3
@@ -63464,8 +63458,6 @@ MonoBehaviour:
   _healthsComponent: {fileID: 279252181745073338}
   _fXConfig: {fileID: 11400000, guid: da186a45d42a41145b4b5b4017e511e7, type: 2}
   _stamp: {fileID: 6438525630201026132}
-  _animator: {fileID: 350511201817783672}
-  _character: {fileID: 1049339183203745604}
 --- !u!114 &8587283418986249437
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -63817,8 +63809,6 @@ MonoBehaviour:
   _healthsComponent: {fileID: 7208951882492830587}
   _fXConfig: {fileID: 11400000, guid: da186a45d42a41145b4b5b4017e511e7, type: 2}
   _stamp: {fileID: 6438525630201026132}
-  _animator: {fileID: 350511201817783672}
-  _character: {fileID: 1049339183203745604}
 --- !u!114 &7273215683871834952
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -64024,8 +64014,6 @@ MonoBehaviour:
   _healthsComponent: {fileID: 1079527823264461468}
   _fXConfig: {fileID: 11400000, guid: da186a45d42a41145b4b5b4017e511e7, type: 2}
   _stamp: {fileID: 6438525630201026132}
-  _animator: {fileID: 350511201817783672}
-  _character: {fileID: 1049339183203745604}
 --- !u!114 &6715383438058748615
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -68917,7 +68905,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: -335429918, guid: 9576cca3d40dd8d499f1a03ae1cfd2f9, type: 3}
+  originalSprite: {fileID: 0}
   clonedSprite: {fileID: 0}
 --- !u!114 &1407802419119128703
 MonoBehaviour:
@@ -68948,8 +68936,8 @@ MonoBehaviour:
   damage: 0
   damageRequired: 100
   damageMultiplier: 2
-  pointsPerSolidPixel: 0.001
-  maxPoints: 20
+  pointsPerSolidPixel: 0.1
+  maxPoints: 3
   factorInSharpness: 1
   splitAfterFracture: 0
   splitFeather: 3
@@ -73078,7 +73066,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: -1011551496, guid: 9576cca3d40dd8d499f1a03ae1cfd2f9, type: 3}
+  originalSprite: {fileID: 0}
   clonedSprite: {fileID: 0}
 --- !u!114 &6316948867826616561
 MonoBehaviour:
@@ -73109,8 +73097,8 @@ MonoBehaviour:
   damage: 0
   damageRequired: 100
   damageMultiplier: 2
-  pointsPerSolidPixel: 0.001
-  maxPoints: 20
+  pointsPerSolidPixel: 0.1
+  maxPoints: 3
   factorInSharpness: 1
   splitAfterFracture: 0
   splitFeather: 3
@@ -77239,7 +77227,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 664473269, guid: 9576cca3d40dd8d499f1a03ae1cfd2f9, type: 3}
+  originalSprite: {fileID: 0}
   clonedSprite: {fileID: 0}
 --- !u!114 &8670202471063550879
 MonoBehaviour:
@@ -77270,8 +77258,8 @@ MonoBehaviour:
   damage: 0
   damageRequired: 100
   damageMultiplier: 2
-  pointsPerSolidPixel: 0.001
-  maxPoints: 20
+  pointsPerSolidPixel: 0.1
+  maxPoints: 3
   factorInSharpness: 1
   splitAfterFracture: 0
   splitFeather: 3
@@ -77478,8 +77466,6 @@ MonoBehaviour:
   _healthsComponent: {fileID: 4315024508990742591}
   _fXConfig: {fileID: 11400000, guid: da186a45d42a41145b4b5b4017e511e7, type: 2}
   _stamp: {fileID: 6438525630201026132}
-  _animator: {fileID: 350511201817783672}
-  _character: {fileID: 1049339183203745604}
 --- !u!114 &3604453092432271620
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -77685,8 +77671,6 @@ MonoBehaviour:
   _healthsComponent: {fileID: 1381692845517926431}
   _fXConfig: {fileID: 11400000, guid: da186a45d42a41145b4b5b4017e511e7, type: 2}
   _stamp: {fileID: 6438525630201026132}
-  _animator: {fileID: 350511201817783672}
-  _character: {fileID: 1049339183203745604}
 --- !u!114 &2731468454133347860
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -77919,8 +77903,6 @@ MonoBehaviour:
   _healthsComponent: {fileID: 227137338504358348}
   _fXConfig: {fileID: 11400000, guid: da186a45d42a41145b4b5b4017e511e7, type: 2}
   _stamp: {fileID: 6438525630201026132}
-  _animator: {fileID: 350511201817783672}
-  _character: {fileID: 1049339183203745604}
 --- !u!114 &1981720350746411619
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -78156,8 +78138,6 @@ MonoBehaviour:
   _healthsComponent: {fileID: 2348553978857840539}
   _fXConfig: {fileID: 11400000, guid: da186a45d42a41145b4b5b4017e511e7, type: 2}
   _stamp: {fileID: 6438525630201026132}
-  _animator: {fileID: 350511201817783672}
-  _character: {fileID: 1049339183203745604}
 --- !u!114 &279832481606176651
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -90779,7 +90759,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 2095211317, guid: 9576cca3d40dd8d499f1a03ae1cfd2f9, type: 3}
+  originalSprite: {fileID: 0}
   clonedSprite: {fileID: 0}
 --- !u!114 &7950969124152918641
 MonoBehaviour:
@@ -90810,8 +90790,8 @@ MonoBehaviour:
   damage: 0
   damageRequired: 100
   damageMultiplier: 2
-  pointsPerSolidPixel: 0.001
-  maxPoints: 20
+  pointsPerSolidPixel: 0.1
+  maxPoints: 3
   factorInSharpness: 1
   splitAfterFracture: 0
   splitFeather: 3
@@ -91023,8 +91003,6 @@ MonoBehaviour:
   _healthsComponent: {fileID: 1276386245789270497}
   _fXConfig: {fileID: 11400000, guid: da186a45d42a41145b4b5b4017e511e7, type: 2}
   _stamp: {fileID: 6438525630201026132}
-  _animator: {fileID: 350511201817783672}
-  _character: {fileID: 1049339183203745604}
 --- !u!114 &2270540918127913318
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -93416,7 +93394,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 21300000, guid: 5e9005eb1a61a414bb9bf1c854d3ae8b, type: 3}
+  originalSprite: {fileID: 0}
   clonedSprite: {fileID: 0}
 --- !u!114 &7368535203269754430
 MonoBehaviour:
@@ -93447,8 +93425,8 @@ MonoBehaviour:
   damage: 0
   damageRequired: 100
   damageMultiplier: 2
-  pointsPerSolidPixel: 0.001
-  maxPoints: 20
+  pointsPerSolidPixel: 0.1
+  maxPoints: 3
   factorInSharpness: 1
   splitAfterFracture: 0
   splitFeather: 3
@@ -93671,8 +93649,6 @@ MonoBehaviour:
   _healthsComponent: {fileID: 6825202766953738772}
   _fXConfig: {fileID: 11400000, guid: da186a45d42a41145b4b5b4017e511e7, type: 2}
   _stamp: {fileID: 6438525630201026132}
-  _animator: {fileID: 350511201817783672}
-  _character: {fileID: 1049339183203745604}
 --- !u!114 &6273496538755716919
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -98329,7 +98305,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 21300000, guid: 1b1c3f2ae83eb514d8829bcaf99df7da, type: 3}
+  originalSprite: {fileID: 0}
   clonedSprite: {fileID: 0}
 --- !u!114 &2634936905808860427
 MonoBehaviour:
@@ -98360,8 +98336,8 @@ MonoBehaviour:
   damage: 0
   damageRequired: 100
   damageMultiplier: 2
-  pointsPerSolidPixel: 0.001
-  maxPoints: 20
+  pointsPerSolidPixel: 0.1
+  maxPoints: 3
   factorInSharpness: 1
   splitAfterFracture: 0
   splitFeather: 3
@@ -101448,7 +101424,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 21300000, guid: f2ea7151ec675474a95a70da2cef8ca1, type: 3}
+  originalSprite: {fileID: 0}
   clonedSprite: {fileID: 0}
 --- !u!114 &1545091865784666870
 MonoBehaviour:
@@ -101479,8 +101455,8 @@ MonoBehaviour:
   damage: 0
   damageRequired: 100
   damageMultiplier: 2
-  pointsPerSolidPixel: 0.001
-  maxPoints: 20
+  pointsPerSolidPixel: 0.1
+  maxPoints: 3
   factorInSharpness: 1
   splitAfterFracture: 0
   splitFeather: 3
@@ -104651,7 +104627,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 21300000, guid: f2ea7151ec675474a95a70da2cef8ca1, type: 3}
+  originalSprite: {fileID: 0}
   clonedSprite: {fileID: 0}
 --- !u!114 &688594932356512460
 MonoBehaviour:
@@ -104682,8 +104658,8 @@ MonoBehaviour:
   damage: 0
   damageRequired: 100
   damageMultiplier: 2
-  pointsPerSolidPixel: 0.001
-  maxPoints: 20
+  pointsPerSolidPixel: 0.1
+  maxPoints: 3
   factorInSharpness: 1
   splitAfterFracture: 0
   splitFeather: 3
@@ -108084,7 +108060,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 21300000, guid: 58cc9f7702e66e445bba3c5aecaced42, type: 3}
+  originalSprite: {fileID: 0}
   clonedSprite: {fileID: 0}
 --- !u!114 &8387605316632711895
 MonoBehaviour:
@@ -108115,8 +108091,8 @@ MonoBehaviour:
   damage: 0
   damageRequired: 100
   damageMultiplier: 2
-  pointsPerSolidPixel: 0.001
-  maxPoints: 20
+  pointsPerSolidPixel: 0.1
+  maxPoints: 3
   factorInSharpness: 1
   splitAfterFracture: 0
   splitFeather: 3
@@ -110763,7 +110739,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 21300000, guid: 5e9005eb1a61a414bb9bf1c854d3ae8b, type: 3}
+  originalSprite: {fileID: 0}
   clonedSprite: {fileID: 0}
 --- !u!114 &7883240736145531403
 MonoBehaviour:
@@ -110794,8 +110770,8 @@ MonoBehaviour:
   damage: 0
   damageRequired: 100
   damageMultiplier: 2
-  pointsPerSolidPixel: 0.001
-  maxPoints: 20
+  pointsPerSolidPixel: 0.1
+  maxPoints: 3
   factorInSharpness: 1
   splitAfterFracture: 0
   splitFeather: 3
@@ -113882,7 +113858,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 21300000, guid: 58cc9f7702e66e445bba3c5aecaced42, type: 3}
+  originalSprite: {fileID: 0}
   clonedSprite: {fileID: 0}
 --- !u!114 &6240611029358075720
 MonoBehaviour:
@@ -113913,8 +113889,8 @@ MonoBehaviour:
   damage: 0
   damageRequired: 100
   damageMultiplier: 2
-  pointsPerSolidPixel: 0.001
-  maxPoints: 20
+  pointsPerSolidPixel: 0.1
+  maxPoints: 3
   factorInSharpness: 1
   splitAfterFracture: 0
   splitFeather: 3
@@ -117224,7 +117200,7 @@ MonoBehaviour:
   cropSprite: 1
   rebuildInGame: 0
   rebuildOptimizeCount: 0
-  originalSprite: {fileID: 21300000, guid: e27b3ec760d388e499288d993f901d72, type: 3}
+  originalSprite: {fileID: 0}
   clonedSprite: {fileID: 0}
 --- !u!114 &8877132992039174548
 MonoBehaviour:
@@ -117255,8 +117231,8 @@ MonoBehaviour:
   damage: 0
   damageRequired: 100
   damageMultiplier: 2
-  pointsPerSolidPixel: 0.001
-  maxPoints: 20
+  pointsPerSolidPixel: 0.1
+  maxPoints: 3
   factorInSharpness: 1
   splitAfterFracture: 0
   splitFeather: 3

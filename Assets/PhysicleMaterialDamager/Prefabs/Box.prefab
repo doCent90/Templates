@@ -9498,7 +9498,7 @@ MonoBehaviour:
   damage: 0
   damageRequired: 100
   damageMultiplier: 2
-  pointsPerSolidPixel: 0.001
+  pointsPerSolidPixel: 0.01
   maxPoints: 4
   factorInSharpness: 1
   splitAfterFracture: 0

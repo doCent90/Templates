@@ -7,7 +7,7 @@ namespace RagdollSystem
     {
         private const float MinDamageValue = 0.95f;
         private const float Force = 5f;
-
+        private const float Staright = 0.5f;
         [Header("Destructions Part")]
         [SerializeField] private D2dDestructibleSprite _destructibleSkin;
         [SerializeField] private D2dDestructibleSprite _destructibleMeat;
@@ -17,6 +17,7 @@ namespace RagdollSystem
 
         private bool _damagedSkin = false;
         private bool _damagedMeat = false;
+        private bool _splitted = false;
 
         private void OnDestroy()
         {
@@ -87,12 +88,22 @@ namespace RagdollSystem
 
         private void OnSplit(D2dDestructible piece)
         {
+            if (_splitted) return;
+
+            _splitted = true;
             piece.gameObject.layer = _layer;
             piece.transform.parent = null;
 
             Rigidbody2D rigidbody2D = piece.gameObject.AddComponent<Rigidbody2D>();
-            if (piece.TryGetComponent(out D2dPolygonCollider _) == false)
-                piece.gameObject.AddComponent<D2dPolygonCollider>();
+            if (piece.TryGetComponent(out D2dPolygonCollider targetPlygon) == false)
+            {
+                var polygon = piece.gameObject.AddComponent<D2dPolygonCollider>();
+            }
+            else
+            {
+                targetPlygon.CellSize = D2dPolygonCollider.CellSizes.Square64;
+                targetPlygon.Straighten = Staright;
+            }
 
             rigidbody2D.bodyType = RigidbodyType2D.Dynamic;
             rigidbody2D.velocity = Random.insideUnitCircle * Force;
